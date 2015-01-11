@@ -1,0 +1,16 @@
+C:\projects\unityaoptest\unityaoptest\bin\Debug\unityaoptest.exe.config
+C:\projects\unityaoptest\unityaoptest\obj\Debug\unityaoptest.csprojResolveAssemblyReference.cache
+C:\projects\unityaoptest\unityaoptest\bin\Debug\unityaoptest.exe
+C:\projects\unityaoptest\unityaoptest\bin\Debug\unityaoptest.pdb
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\projects\unityaoptest\unityaoptest\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\projects\unityaoptest\unityaoptest\obj\Debug\unityaoptest.exe
+C:\projects\unityaoptest\unityaoptest\obj\Debug\unityaoptest.pdb
